@@ -1,0 +1,18 @@
+{
+    "name": "opensearch-dev/opensearch-function-compute",
+    "description": "Function Compute for Aliyun Opensearch",
+    "keywords": ["php", "function", "compute", "aliyun", "opensearch"],
+    "type": "project",
+    "license": "Apache-2.0",
+    "authors": [
+        {
+            "name": "Timandes White",
+            "email": "timands@gmail.com",
+            "role": "Lead"
+        }
+    ],
+    "require": {
+        "php": ">=7.0",
+        "opensearch-dev/opensearch": "dev-master"
+    }
+}
